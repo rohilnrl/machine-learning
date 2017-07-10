@@ -1,2 +1,2 @@
 # machine-learning
-Andrew NG's course assignments.
+My solutions for Andrew NG's course assignments.
